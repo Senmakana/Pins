@@ -1,5 +1,6 @@
 {
-  "pin": "Esd",
+  "pin": "Sddf",
   "phonenumber": "1234567890",
-  "amount": "100"
+  "amount": 0,
+  "phoneNumber": 888888
 }
